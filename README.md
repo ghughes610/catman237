@@ -14,14 +14,14 @@
 
 ## Experience 
 
-## Software Engineer 
+> ### Software Engineer 
 - ### Company: [Call Emmy](https://callemmy.com/) October 2021 - Current 
  - Upkeeping and making changes to **Firebase** Database information.
- - Working on React Native app to change/add **modals**.
- - Working to implement **Deep Linking**.
+ - Working on React Native app (in production) to change/add **modals**.
+ - Working to implement **Deep Linking** from the React app to the React Native app.
  - Participating in Agile Development which entails weekly **SCRUMS**.
 
-## Open Source Contributions
+### Open Source Contributions
 - #### Project: [Open Beta](https://OpenSource.io)
  - Implementing user icons to show if user is logged in or not.
  - Participating in code reviews for all pull requests I submit.
