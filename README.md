@@ -13,13 +13,12 @@
 - RESTful APIs
 
 ## Experience 
-
-> ### Software Engineer 
-- ### Company: [Call Emmy](https://callemmy.com/) October 2021 - Current 
- - Upkeeping and making changes to **Firebase** Database information.
- - Working on React Native app (in production) to change/add **modals**.
- - Working to implement **Deep Linking** from the React app to the React Native app.
- - Participating in Agile Development which entails weekly **SCRUMS**.
+ ### Software Engineer 
+* ### Company: [Call Emmy](https://callemmy.com/) October 2021 - Current 
+    * Upkeeping and making changes to **Firebase** Database information.
+    * Working on React Native app (in production) to change/add **modals**.
+    * Working to implement **Deep Linking** from the React app to the React Native app.
+    * Participating in Agile Development which entails weekly **SCRUMS**.
 
 ### Open Source Contributions
 - #### Project: [Open Beta](https://OpenSource.io)
