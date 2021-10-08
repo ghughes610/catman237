@@ -45,7 +45,7 @@
 
 - #### Job Tracker 
     - [Client Side Repo](https://github.com/catman237/job_posting_frontend)
-    - [Server ide Repo](https://github.com/catman237/job_posting_backend)
+    - [Server Side Repo](https://github.com/catman237/job_posting_backend)
     - React 
     - Ruby on Rails
     - Semantic UI
