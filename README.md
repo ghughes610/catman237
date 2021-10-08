@@ -5,8 +5,9 @@
 ## Technical Skills
 
 - JavaScript
-- Ruby on Rails
+- Node.js
 - React / React Native
+- Ruby on Rails
 - HTML
 - CSS \ SASS
 - PostgreSQL
