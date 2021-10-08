@@ -52,6 +52,8 @@
 
 - #### Pig Dice Game (Deployed) 
     - [Pig Dice Game](https://game-of-dice-app.netlify.app)
+    - Vanilla JavaScript    
     
 - #### Guess My Number Game (Deployed)
     - [Guess My Number Game](https://guessinggameapp.netlify.app)
+    - Vanilla JavaScript
