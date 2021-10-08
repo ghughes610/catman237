@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greg Hughes 
+## Full Stack Software Engineer
 
 **catman237/catman237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
