@@ -21,7 +21,7 @@
     * Participating in Agile Development which entails weekly **SCRUMS**.
 
 ### Open Source Contributions
-* ### Project: [Open Beta](https://OpenSource.io) [OpenBeta](https://avatars.githubusercontent.com/u/24965610?s=200&v=4)
+* ### Project: [Open Beta](https://OpenSource.io) ![OpenBeta](https://avatars.githubusercontent.com/u/24965610?s=200&v=4)
     * October 2021 - **Current**
     * Implementing user icons to show if user is logged in or not.
     * Participating in code reviews for all pull requests I submit.
