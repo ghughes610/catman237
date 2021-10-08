@@ -38,20 +38,20 @@
 
 ### Projects
 - #### Ascent Architect  
-    - [Demo Video]("https://www.youtube.com/watch?v=j-p9zeX9K-c")
+    - [Demo Video](https://www.youtube.com/watch?v=j-p9zeX9K-c)
     - React Native
     - Node.js with Express.js and Knex.js
     - Custom Mobile Styling
 
 - #### Job Tracker 
-    - [Client Side Repo]("https://github.com/catman237/job_posting_frontend")
-    - [Server ide Repo]("https://github.com/catman237/job_posting_backend")
+    - [Client Side Repo](https://github.com/catman237/job_posting_frontend)
+    - [Server ide Repo](https://github.com/catman237/job_posting_backend)
     - React 
     - Ruby on Rails
     - Semantic UI
 
 - #### Pig Dice Game (Deployed) 
-    - [Pig Dice Game]("https://game-of-dice-app.netlify.app")
+    - [Pig Dice Game](https://game-of-dice-app.netlify.app)
     
 - #### Guess My Number Game (Deployed)
-    - [Guess My Number Game]("https://guessinggameapp.netlify.app")
+    - [Guess My Number Game](https://guessinggameapp.netlify.app)
