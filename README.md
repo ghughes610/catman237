@@ -21,8 +21,8 @@
     * Participating in Agile Development which entails weekly **SCRUMS**.
 
 ### Open Source Contributions
-- #### Project: [Open Beta](https://OpenSource.io)
- - Implementing user icons to show if user is logged in or not.
- - Participating in code reviews for all pull requests I submit.
- - Operating in a production level github repository.
- - Learning **Python** to help contribute to the backend of this project.
+* #### Project: [Open Beta](https://OpenSource.io)
+    * Implementing user icons to show if user is logged in or not.
+    * Participating in code reviews for all pull requests I submit.
+    * Operating in a production level github repository.
+    * Learning **Python** to help contribute to the backend of this project.
