@@ -28,7 +28,7 @@
 
 ### Open Source Contributions
 
-- <kbd><img src="https://avatars.githubusercontent.com/u/24965610?s=200&v=4" width="30" height="30"/></kbd> [Open Beta](https://www.openbeta.io/)
+- <kbd><img src="https://avatars.githubusercontent.com/u/24965610?s=200&v=4" width="30" height="30"/></kbd> [Open Beta](https://github.com/openbeta)
 
   - September 2021 - **Current**
   - Implementing user icons to show if user is logged in or not.
